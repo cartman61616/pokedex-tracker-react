@@ -1,3 +1,6 @@
+Docker command to build image:
+docker build . -t pokedex-react
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
